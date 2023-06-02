@@ -1,3 +1,5 @@
+mahler_symphony_09-01
+
 data sets for performance analyses ofthe first movement of Gustav Mahler's Ninth Symphony (1909--10) GMW 50
 
 This repository introduces the data sets created during research on recorded performances of Arnold Schoenberg's Sechs kleine Klavierstücke (Six Little Piano Pieces) op. 19 (1911). It complements the following three articles:
