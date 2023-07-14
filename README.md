@@ -10,3 +10,6 @@ Tables, Figures, Audio and Video Examples for this article can be accessed at ht
 
 The current dataset includes data on segmentation points, durations, and tempi of 121 recordings of the movement. Segmentation points follow a structural analysis of the movement based on 88 segments introduced in the article (https://phaidra.kug.ac.at/o:130744).
 
+* **Mahler_IX-1_seg_dataSV.tsv** shows all 89 segmentation points for eahc of the 121 recordings, based on detailed measurements in sonic Visualiser
+* **Mahler_IX-1_seg_durations.tsv** shows the duration of each segment  as well as the total duration for all 121 recordings
+* **Mahler_IX-1_seg_tempi.tsv** shows the mean tempo of each segment for all 121 recordings as well as the average tempo (mean of 88 segment tempi).
